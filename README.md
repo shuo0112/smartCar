@@ -1,4 +1,4 @@
-# smartCar
+# smartCar 電子三甲 108360127 陳垣碩
 The smart car is a highly computerized automobile featuring ubiquitous computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced Smart Car demonstration platform with a transparent windshield display and various motion sensors where drivers can manipulate a variety of car-appropriate applications in augmented reality. Similar to smartphones, drivers can customize their Smart Car through free downloads of car-appropriate applications according to their wants and needs. 
 
 
@@ -31,7 +31,7 @@ Figure 6. Driver performing the nighttime contrast enhancement application where
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
-Manage EVs. Balance the grid.
+##Manage EVs. Balance the grid.
 Smartcar allows energy and electric utility providers to remotely monitor their customers’ electric vehicles and manage residential EV charging.
 
 Battery level
@@ -42,3 +42,5 @@ Know when your customer’s EV is plugged in and if the battery is currently cha
 
 Start and stop charge (early access)
 Start and stop charging your customer’s vehicle remotely to balance their preferred schedule with the current electric grid load.
+
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/1.png?raw=true)
