@@ -34,13 +34,13 @@ before and after using the application.
 # Manage EVs. Balance the grid.
 Smartcar allows energy and electric utility providers to remotely monitor their customers’ electric vehicles and manage residential EV charging.
 
-Battery level
+Battery level：
 Retrieve the state of charge (SoC) and the remaining range from an electric vehicle with a single API request.
 
-Charging status
+Charging status：
 Know when your customer’s EV is plugged in and if the battery is currently charging.
 
-Start and stop charge (early access)
+Start and stop charge (early access)：
 Start and stop charging your customer’s vehicle remotely to balance their preferred schedule with the current electric grid load.
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/1.png?raw=true)
