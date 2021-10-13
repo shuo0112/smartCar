@@ -31,3 +31,14 @@ Figure 6. Driver performing the nighttime contrast enhancement application where
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
+Manage EVs. Balance the grid.
+Smartcar allows energy and electric utility providers to remotely monitor their customers’ electric vehicles and manage residential EV charging.
+
+Battery level
+Retrieve the state of charge (SoC) and the remaining range from an electric vehicle with a single API request.
+
+Charging status
+Know when your customer’s EV is plugged in and if the battery is currently charging.
+
+Start and stop charge (early access)
+Start and stop charging your customer’s vehicle remotely to balance their preferred schedule with the current electric grid load.
