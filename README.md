@@ -43,4 +43,4 @@ Know when your customer’s EV is plugged in and if the battery is currently cha
 Start and stop charge (early access)：
 Start and stop charging your customer’s vehicle remotely to balance their preferred schedule with the current electric grid load.
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/1.png?raw=true)
+![image](https://github.com/shuo0112/smartCar/blob/master/image/1.png?raw=true)
